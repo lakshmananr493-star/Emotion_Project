@@ -53,7 +53,7 @@ async def speak(text):
 # ==========================================================
 # Step 1: Configure Gemini Client
 # ==========================================================
-API_KEY = "AQ.Ab8RN6LBnY_t74uBXfk3DscCubNybSQxbD3dtbNSPVycDTl13A"
+API_KEY = "API"
 
 client = genai.Client(api_key=API_KEY)
 
